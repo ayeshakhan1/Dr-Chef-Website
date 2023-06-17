@@ -1,5 +1,6 @@
 # Dr-Chef-Website
-BSCS Final Year Project using Laravel 9 and Bootstrap 5.2 (Session 2019 - 2023)
+BSCS (Session 2019 - 2023)
+Final Year Project using Laravel 9 and Bootstrap 5.2 
 
 **Setup Guide:**
 
